@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_picasso.mk
+    $(LOCAL_DIR)/cherish_picasso.mk
 
 COMMON_LUNCH_CHOICES := \
     cherish_picasso-userdebug \
