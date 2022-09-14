@@ -8,5 +8,5 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/arrow_picasso.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_picasso-userdebug \
-    arrow_picasso-eng
+    cherish_picasso-userdebug \
+    cherish_picasso-eng
